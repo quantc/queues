@@ -6,7 +6,7 @@ namespace Queues.IBMMQ.Get
 {
     internal class Program
     {
-        static readonly string queueManagerName = "TEST";
+        static readonly string queueManagerName = "QM";
         static readonly string queueName = "Queue1";
 
         static void Main(string[] args)
